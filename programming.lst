@@ -2,3 +2,10 @@ bg
 clj
 println
 script
+mkfs
+scs
+true
+screen
+uptime
+mktemp
+link
