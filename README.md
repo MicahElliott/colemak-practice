@@ -12,7 +12,7 @@ These are your primary enemies:
 	sc cs fs sf fc cf rw wr rx xr qa za ue eu iy yi
 
 The goal is to never use the same finger twice in succession … ’cuz
-that makES you slow (and uncomfortable!). And if you ever wanna beat
+that maKEs you slow (and uncomfortable!). And if you ever wanna beat
 [Sean Wrona](https://forum.colemak.com/topic/1309-typing-tips-from-the-fastest-typist-sean-wrona/),
 in a typing contest and tell him to his face that **colemak rulez!**,
 you gotta get that
@@ -94,7 +94,7 @@ ulken
 unl
 unmi
 uen
-quen
+uen
 fsc
 mne
 helm
@@ -109,6 +109,7 @@ lunk
 keu
 lke
 lumny
+nly
 ```
 
 ## oPTimiZAtions deSCribed (with examples)
@@ -136,3 +137,5 @@ They don’t maKE otheRWise normal words worse. They actually maKE your
 fingers more comfortable and spry for a little more learning effort.
 Imagine a pianist never leaving C-position. That’s what you’ve been …
 till now.
+
+ENJOY!
