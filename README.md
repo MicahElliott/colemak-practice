@@ -87,6 +87,8 @@ ken
 kel
 kne
 key
+ink
+enk
 unk
 ulm
 uln
