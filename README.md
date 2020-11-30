@@ -13,7 +13,7 @@ These are your primary enemies:
 
 The goal is to never use the same finger twice in succession … ’cuz
 that maKEs you slow (and uncomfortable!). And if you ever wanna beat
-[Sean Wrona](https://forum.colemak.com/topic/1309-typing-tips-from-the-fastest-typist-sean-wrona/),
+[Sean Wrona](https://forum.colemak.com/topic/1309-typing-tips-from-the-fastest-typist-sean-wrona/)
 in a typing contest and tell him to his face that **colemak rulez!**,
 you gotta get that
 [1.52%](https://colemakmods.github.io/mod-dh/compare.html#compare-results)
@@ -58,7 +58,9 @@ are tricksy.
 
 The best file for training is _best.lst_, containting ~100 words that
 have multiple odd patterns in a single word, LIKE _dEUtSCHMark_
-(they’re mostly English :P).
+(they’re mostly English :P). The file is sorted by patterns, so It’s
+probably best to take sections of 10-20 words at a time to load into
+your trainer.
 
 ## Tricks
 
@@ -80,7 +82,8 @@ A X”.
 ## Shifty Patterns
 
 The following might be all you need to practice to conqUEr all the
-trigrams.
+trigrams. However, these are quite difficult to work though
+altogether; typing them as parts of words is easier.
 
 ``` text
 ken
@@ -140,4 +143,4 @@ fingers more comfortable and spry for a little more learning effort.
 Imagine a pianist never leaving C-position. That’s what you’ve been …
 till now.
 
-ENJOY!
+ENJoy!
