@@ -129,11 +129,15 @@ _helm_ becomes: `h(I) e(A) l(M) m(I)`
 
 _key_ becomes: `k(I) e(A) y(X)`
 
+## Antirecommendations
+
+Don’t bother with the _hm_ combo. It’s rare and requires lookahead.
+
 ## This is ridiculous
 
 What’s that, this is a total waste? You might be right. Most people
 probably don’t care about tuning an already amazing layout. But no
-layout can be perfect. Without some hacks. And that’s what these are,
+layout can be perfect – without some hacks. And that’s what these are,
 but they should actually speed you up if you really wanna up your game
 (after you down it yet again).
 
